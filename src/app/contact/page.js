@@ -57,6 +57,7 @@ export default function Contact() {
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
+        data-hero-section="true"
         className="relative bg-gradient-to-br from-slate-900 via-indigo-900 to-slate-900 overflow-hidden py-20 px-4 sm:px-6 lg:px-8"
       >
         {/* Decorative elements */}

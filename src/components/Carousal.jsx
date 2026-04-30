@@ -9,7 +9,7 @@ import { sliderData } from "../data/data";
 
 export default function Caraousal() {
     return (
-        <div id="carousel-section" className="h-screen">
+        <div id="carousel-section" data-hero-section="true" className="h-screen">
             <Swiper
                 modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
                 navigation
