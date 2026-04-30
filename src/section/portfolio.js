@@ -12,7 +12,7 @@ const data = [
   {
     title: "Himalayan Outreach & Evangelism",
     desc: "Sharing the Gospel in remote Himalayan regions by combining trekking and mission—reaching the unreached.",
-    image: "/images/himalaya.jpg",
+    image: "/images/himal.jpg",
     highlights: ["Remote Missions", "Trekking Guide", "Evangelism"],
   },
   {
